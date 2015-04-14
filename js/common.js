@@ -459,7 +459,7 @@ QwantEmbed.prototype = {
 			this.flagAlready = true;
 
 			$.ajax({
-				url : 'https://www.qwant.com/search/smart/',
+				url : 'https://api.qwant.com/api/search/smart/',
 				type : 'GET',
 				data : 'q=' + encodeURIComponent(this.query) + '&locale=' + this.locale + '&client=opera-ext',
 				context : this,
