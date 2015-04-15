@@ -1,58 +1,3 @@
-/*
-
-
-
-#qwt_qbed #qwt_content .qwt_media_bloc .qwt_thumb {
-    float: left;
-    margin-left: 11px;
-    margin-right: 8px;
-    position: relative;
-}
-
-#qwt_qbed #qwt_content .qwt_media_bloc .qwt_thumb img {
-
-}
-
-#qwt_qbed #qwt_content .qwt_media_bloc .qwt_thumb a {
-
-}
-
-#qwt_qbed #qwt_content .qwt_social_bloc .qwt_author_pic {
-
-}
-
-#qwt_qbed #qwt_content .qwt_media_bloc .qwt_qlink {
-    padding-bottom: 10px;
-}
-
-#qwt_qbed #qwt_content .qwt_social_bloc .qwt_qlink a::before {
-    content: "«\00A0 ";
-    font-size: 15px;
-}
-
-#qwt_qbed #qwt_content .qwt_social_bloc .qwt_qlink a::after {
-    content: " \00A0»";
-    font-size: 15px;
-}
-
-#qwt_qbed #qwt_content .qwt_social_bloc .qwt_qlink {
-    padding-bottom: 14px;
-}
-
-#qwt_qbed #qwt_footer {
-    height: 38px;
-    line-height: 40px;
-    border-left: 3px solid rgb(222, 220, 228);
-    margin-left: 39px;
-    background: url('chrome-extension://__MSG_@@extension_id__/img/footer-main.png') center right no-repeat transparent;
-}
-
-#qwt_qbed #qwt_footer img {
-    vertical-align: middle;
-}
-
-
-*/
 .qwt-spinner {
 	position: relative;
 	height: 35px;
@@ -175,7 +120,7 @@ p {
 }
 
 .qwt-web-result-link {
-	border-color: #65C010;
+	border-color: #0fbd2b;
 }
 
 .qwt-news {
@@ -184,7 +129,7 @@ p {
 }
 
 .qwt-news-result-link {
-	border-color: #F49711;
+	border-color: #ff7800;
 }
 
 .qwt-media {
@@ -193,7 +138,7 @@ p {
 }
 
 .qwt-media-result-link {
-	border-color: #f61313;
+	border-color: #f54146;
 }
 
 .qwt-media-thumb {
@@ -218,7 +163,7 @@ p {
 }
 
 .qwt-social-result-link {
-	border-color: #42c0ef;
+	border-color: #1f99f5;
 }
 
 .qwt-social-author-thumb {
