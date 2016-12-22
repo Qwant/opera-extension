@@ -1,4 +1,4 @@
-opera-extension
-===============
+Qwant for Opera
+================
 
-This addon allows you to expand your websearch with a preview of the best qwant results embedded in other search engines
+Qwant for Opera sets Qwant.com as your default search engine and homepage.
